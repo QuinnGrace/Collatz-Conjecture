@@ -34,6 +34,6 @@ public class CollatzMain
                     testNumber = testNumber.add(BigInteger.ONE);
                     System.out.println(testNumber);
                 }
-        
+            }
     }
 }
